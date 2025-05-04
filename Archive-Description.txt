@@ -1,0 +1,39 @@
+Hello, and welcome to the Rayman Legends Archive GitHub!
+
+The goal of the Rayman Legends Archive project is to collect every piece of media that is either no longer available or was never publicly available, provided by a player (or their representative), for Invasion and Distance personal bests (PBs), world records (WRs), and former WRs.
+
+Our main platform for media is the YouTube channel, where we host videos. Images were previously uploaded to Discord, and the links generated there were used in our community spreadsheet. However, due to recent changes in Discord's policy, media links now expire after 48 hours. As a result, we've moved to GitHub to preserve non-video media.
+
+At this time, we’re still unsure whether we’ll upload every piece of media already stored in the "Archiverse" project, but this GitHub may eventually serve as a backup or complementary source.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Here, you’ll find additional media related to scores in Rayman Legends, mainly images of former WRs and current PBs for Invasion and Distance challenges.
+
+This GitHub contains two main folders: "Invasions" and "Distance". Each of these contains two subfolders:
+
+* "WRs Archive" – A folder for each Invasion/Distance level, containing media files named using the following format:
+YYYY-MM-DD_Level_Player_Score_Platform.png
+Example: 2013-08-27_LandsDistance_RaymanPlayer_32.76km_WiiU.png
+
+* "Current PBs" – A folder for each player (with available media), also using the same naming format as above.
+Example: 2025-06-13_4-2_Craftendo_27.99_Switch.png
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+⚠️ Please note: at the time of writing, not all media from the spreadsheet is uploaded here yet. That’s where we need your help!
+
+If you find any media missing or linked to an expired/outdated URL on the spreadsheet, please contact Craftendo on Discord and share:
+
+- The media file
+
+- The player’s name
+
+- The score
+
+- The date (If unknown, use the upload/post date from the platform you found it on. If that's unavailable, provide the closest possible approximation: the month, year, or just note that it's unknown.)
+
+
+The GitHub repository will be updated shortly after your submission, providing spreadsheet admins with a reliable and permanent link.
+
+Thank you for supporting the community’s effort to preserve all valuable records and media!
